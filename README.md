@@ -6,3 +6,6 @@
 * Lemmentation (WordNetLemmatizer) is similar to steaming but it is smarter it uses a vocabulary and grammatical rules to find the true base form (lemma) of a 
 
 * N-grams: is for analyzing patterns in text. If the degree of n-gram is changed to [1] or [2] or [3], we get bigram or trigram sequence of two or three words, helping identify common phrase (most occuring) or expression in the text.
+
+* Sentiment Anaylsis is an NLP technique underlying emotional tone of the text
+it could be positive, negative, or neutral
