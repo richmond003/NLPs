@@ -112,6 +112,8 @@ rfc3987-syntax==1.1.0
 rich==14.3.2
 rpds-py==0.30.0
 safetensors==0.7.0
+scikit-learn==1.8.0
+scipy==1.17.1
 Send2Trash==2.1.0
 setuptools==82.0.0
 shellingham==1.5.4
@@ -127,6 +129,7 @@ sympy==1.14.0
 terminado==0.18.1
 textblob==0.19.0
 thinc==8.3.10
+threadpoolctl==3.6.0
 tinycss2==1.4.0
 tokenizers==0.22.2
 torch==2.10.0
